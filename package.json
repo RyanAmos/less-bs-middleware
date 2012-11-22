@@ -1,5 +1,5 @@
 { "name"              : "less-bs-middleware"
-  , "version"         : "2.0.4"
+  , "version"         : "2.1.0"
   , "description"     : "Connect middleware for bootstrap using less."
   , "homepage"        : "https://github.com/RyanAmos/less-bs-middleware"
   , "keywoards"       : [ "connect", "express", "middleware", "bootstrap", "less-middleware", "less" ]
@@ -10,7 +10,7 @@
       , "url"         : "git://github.com/RyanAmos/less-bs-middleware.git"
     }
   , "dependencies"    :
-    { "bootstrap"     : "git://github.com/twitter/bootstrap.git#v2.0.4"
+    { "bootstrap"     : "git://github.com/twitter/bootstrap.git#v2.1.0"
       , "less-middleware": "*"
     }
 }
